@@ -1,0 +1,3 @@
+# Estudando JavaScript
+
+Testes de variáveis, operadores, cálculos...
