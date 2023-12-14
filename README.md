@@ -1,3 +1,3 @@
-# Estudando JavaScript
+## Estudando JavaScript
 
-Testes de variáveis, operadores, cálculos...
+Aprendendo a base de variáveis, operadores, cálculos... em JavaScript
